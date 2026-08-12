@@ -7,13 +7,13 @@
     },
     {
         "ConfigFile": "servers/Saves/{{WorldName}}/Sandbox_config.sbc",
-        "AutoMap": true,
+        "AutoMap": false,
         "Importable": true,
         "ConfigType": "xml"
     },
     {
         "ConfigFile": "Torch.cfg",
-        "AutoMap": true,
+        "AutoMap": false,
         "Importable": true,
         "ConfigType": "xml"
     }
